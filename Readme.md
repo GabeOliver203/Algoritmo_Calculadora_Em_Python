@@ -14,7 +14,7 @@ Este é um programa Python que funciona como uma calculadora simples com um hist
 
 1. Clone o repositório ou faça o download dos arquivos.
 
-2. Execute o arquivo `calculator.py` no seu ambiente Python. Certifique-se de que você tenha Python instalado em seu sistema.
+2. Execute o arquivo `calculadora.py` no seu ambiente Python. Certifique-se de que você tenha Python instalado em seu sistema.
 
 3. Após executar o programa, você verá um menu de opções:
     
